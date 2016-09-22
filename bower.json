@@ -9,7 +9,9 @@
     "dist/js/production.min.js"
   ],
   "ignore": [
-    "*"
+    "*",
+	"!dist/css/effects.min.css",
+    "!dist/js/production.min.js"
   ],
   "dependencies": {
     "jquery": "1.11.1 - 2",
