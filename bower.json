@@ -1,17 +1,15 @@
 {
   "name": "imagehover",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Image hover effects",
   "homepage": "http://miketricking.github.io/dist/",
   "license": "MIT",
   "main": [
-    "dist/css/effects.min.css",
-    "dist/js/production.min.js"
+    "src/css/effects.css"
   ],
   "ignore": [
     "*",
-	"!dist/css/effects.min.css",
-    "!dist/js/production.min.js"
+	"!src/css/effects.css"
   ],
   "dependencies": {
     "jquery": "1.11.1 - 2",
